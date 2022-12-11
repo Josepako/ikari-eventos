@@ -150,27 +150,27 @@
     <h2 class="accordion-header" id="headingOne">
       <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
         
-     quience anos
+     quejas
       </button>
     </h2>
     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
       <div class="accordion-body">
         <strong>
-        https://www.google.com.mx/maps/place/Luxor+Palace/@16.8559035,-99.8605752,3a,75y,328.32h,92.74t/data=!3m6!1e1!3m4!1sy7cxEyKGXEuAa4MPIpjsjA!2e0!7i16384!8i8192!4m5!3m4!1s0x85ca582c65929e95:0x4aa13b9814b5ccc6!8m2!3d16.856169!4d-99.8605862
+        sherlyn salas bello 744-444-4444
       </div>
     </div>
   </div>
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingTwo">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-        bodas
+        visitas
       </button>
     </h2>
     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
       <div class="accordion-body">
         <strong>
- 
- <p>domingo 7:00–17:00</p>
+ jose bernal francisco paco 744-555-5555
+
 <p>lunes  6:00–22:00</p>
 <p>martes 6:00–22:00</p>
 <p>miércoles  6:00–22:00</p>
@@ -190,7 +190,7 @@
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
       <div class="accordion-body">
         <strong>
-
+maximiliano ramirez ramirez 744-777-7777
       </div>
     </div>
   </div>
