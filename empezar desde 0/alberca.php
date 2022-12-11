@@ -140,12 +140,9 @@
 <?php
   require_once"./views/navbar.php";
   
-
-  
-
 ?>
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3818.397491989538!2d-99.86238864445802!3d16.856220339388248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ca582c65929e95%3A0x4aa13b9814b5ccc6!2sLuxor%20Palace!5e0!3m2!1ses-419!2smx!4v1670720556629!5m2!1ses-419!2smx" width="1500" height="1000" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> </center>
 
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d401.3587178189129!2d-99.8599036689853!3d16.85666504971193!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ca582b81e0e0f9%3A0x753d2b3b9cb060bc!2sJard%C3%ADn%20de%20Fiestas%20La%20Perlita!5e0!3m2!1ses-419!2smx!4v1670769843699!5m2!1ses-419!2smx" width="1500" height="1000" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> </center>
 <!-- JavaScript Bundle with Popper -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
 

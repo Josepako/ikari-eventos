@@ -20,11 +20,12 @@
           </li>
           <li class="nav-item">
             <a class="nav-link" href="./patrocinadores.php">patrocinadores</a>
-          </li>
-         
-
-          </li>
           
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="./alberca.php">salon ikari con alberca</a>
+          
+          </li>
          
 
 

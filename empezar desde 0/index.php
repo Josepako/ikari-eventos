@@ -146,6 +146,18 @@
 
  <center> <h1>salon de fiestas ikari</h1></center>
 
+
+
+
+
+
+
+
+
+
+
+ 
+
 <script src="script.js"></script>
   
 
