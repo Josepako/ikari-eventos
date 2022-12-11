@@ -9,20 +9,20 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">Home</a>
+            <a class="nav-link active" aria-current="page" href="./index.php">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">ubicacion</a>
+            <a class="nav-link" href="./ubicacion.php">ubicacion</a>
           </li>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">dueños</a>
+            <a class="nav-link" href="./contacto.php">contacto</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">patrocinadores</a>
+            <a class="nav-link" href="./patrocinadores.php">patrocinadores</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Contacto</a>
+         
+
           </li>
           
          

@@ -12,17 +12,6 @@
 </head>
 
 <body>
- 
-          
-         
-
-
-        </ul>
-        
-      </div>
-    </div>
-  </nav>
-
   <?php
   require_once"./views/navbar.php";
   require_once "./views/carousel.php";
@@ -32,10 +21,10 @@
 
   <h1>salon de fiestas ikari</h1>
 
-  <script src="script.js"></script>
+<script src="script.js"></script>
+  
 
-
-  <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script>
+ 
   <!-- JavaScript Bundle with Popper -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3"
