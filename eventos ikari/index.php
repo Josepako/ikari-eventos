@@ -183,7 +183,7 @@
                             <br>
                                     <?php
 
-$conexion=mysqli_connect("localhost","root","","ventas"); 
+$conexion=mysqli_connect("sql521.main-hosting.eu","u413489667_equipoDos","@equipoDos202240","u413489667_equipoDos"); 
 $resultado= mysqli_query($conexion, 'SELECT * FROM comentarios');
 
 while($comentario = mysqli_fetch_object($resultado)){

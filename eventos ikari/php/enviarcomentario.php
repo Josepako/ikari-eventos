@@ -5,7 +5,7 @@ $nombre = $_POST['nombre'];
 
 $comentario= $_POST['comentario'];
 
-$conexion=mysqli_connect("localhost","root","","ventas");  
+$conexion=mysqli_connect("sql521.main-hosting.eu","u413489667_equipoDos","@equipoDos202240","u413489667_equipoDos");  
 
 $nombre= mysqli_real_escape_string($conexion,$nombre);
 $comentario= mysqli_real_escape_string($conexion,$comentario);
